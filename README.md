@@ -293,6 +293,4 @@ To share your quiz app with the world, you need to deploy it on a server that su
 
 Choose the one that best suits your needs and follow their deployment instructions to make your app accessible to users.
 
-### Contact Me
 
-I hope this documentation helps you get started with the Xeven Quiz App. If you have any questions or feedback, please feel free to reach out to me at **[abdul_basit313@outlook.com](mailto:abdul_basit313@outlook.com)**. Happy quizzing!
